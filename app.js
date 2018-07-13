@@ -1,5 +1,5 @@
 function shouter(whatToShout) {
-  return `${whatToShout.toUpperCase}!!!`;
+  return `${whatToShout.toUpperCase()}!!!`;
 }
 
 /* From here down, you are not expected to 
